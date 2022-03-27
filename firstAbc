@@ -9,3 +9,12 @@ System.out.println("Master commits);
 }
 
 rebase issue
+
+shamu ireland londan paris
+
+public static void testfeature(){
+
+System.out.println("Feature Commits");
+}
+test rebase feature
+
