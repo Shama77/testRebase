@@ -7,3 +7,5 @@ test master
 public void testmaster(){
 System.out.println("Master commits);
 }
+
+rebase issue
