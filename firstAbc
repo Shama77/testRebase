@@ -3,3 +3,7 @@ abcd
 shama test 23456
 
 test master
+
+public void testmaster(){
+System.out.println("Master commits);
+}
