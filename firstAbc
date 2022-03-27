@@ -7,3 +7,8 @@ test master
 public void testmaster(){
 System.out.println("Master commits);
 }
+
+public static void testfeature(){
+System.out.println("Feature Commit");
+
+}
